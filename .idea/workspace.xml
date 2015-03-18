@@ -1097,6 +1097,11 @@
       <created>1426682775147</created>
       <updated>1426682775147</updated>
     </task>
+    <task id="LOCAL-00001" summary="firsdt first">
+      <created>1426684017867</created>
+      <updated>1426684017867</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1148,6 +1153,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="firsdt first" />
+    <option name="LAST_COMMIT_MESSAGE" value="firsdt first" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
